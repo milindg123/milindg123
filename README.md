@@ -7,7 +7,7 @@
                       [Twitter : @MilindGhegadma7](https://twitter.com/MilindGhegadma7) 
 
 
-## About ::
+<h3>About : </h3>
    I am B.E.Computer Engineering student. Passionate about Programming, Web Development and Designing, Data Science. Also, having knowledge of Java, OOP, DSA, Mysql, JDBC, MongoDB etc. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
 
@@ -38,8 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
@@ -57,21 +55,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milindg123&theme=radical)
 
-<h3 align="left">Connect with me</h3>
 
-  <a href="https://www.linkedin.com/in/milind-ghegadmal-1b8728221/">
-    <img align="left" alt="Milind Ghegadmal | Linkedin" width="24px" src="linkdin.svg"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/MilindGhegadma7">
-    <img align="left" alt="Milind Ghegadmal | Twitter" width="26px" src="Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/mr.milind007/">
-    <img align="left" alt="Milind Ghegadmal | Instagram" width="24px" src="Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:gmilind2002@gmail.com">
-    <img align="left" alt="Milind Ghegadmal | Gmail" width="26px" src="Gmail.svg" />
-  </a>
-  
 
 
 
