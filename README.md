@@ -1,4 +1,4 @@
-<h2>Hello!👋 I'm Milind Ghegadmal </h2>
+<h1 align="center">Hello!👋 I'm Milind Ghegadmal </h1>
 
 - 🌱 I’m currently learning on Web Development and Data Science
 - 👀 I’m interested in Programming, web design and development, cybersecurity 
