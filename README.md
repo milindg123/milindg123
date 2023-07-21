@@ -24,19 +24,19 @@ Hello! I'm Milind Ghegadmal 👋
 
 
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<h3 align="left">Connect with me</h3>
 
   <a href="https://www.linkedin.com/in/milind-ghegadmal-1b8728221/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" />
+    <img align="left" alt="Milind Ghegadmal | Linkedin" width="24px" src="linkdin.svg"/>
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/MilindGhegadma7">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Milind Ghegadmal | Twitter" width="26px" src="Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/mr.milind007/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Milind Ghegadmal | Instagram" width="24px" src="Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:gmilind2002@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Milind Ghegadmal | Gmail" width="26px" src="Gmail.svg" />
   </a>
 
 
@@ -55,7 +55,7 @@ Hello! I'm Milind Ghegadmal 👋
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -79,7 +79,7 @@ Hello! I'm Milind Ghegadmal 👋
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mayurdehade&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=milindg123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
