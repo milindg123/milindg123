@@ -10,18 +10,8 @@ Hello! I'm Milind Ghegadmal 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The first “computer bug” was an actual bug...
 
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milindg123&theme=radical)
-
-
-
-
-
 ## About ::
    I am B.E.Computer Engineering student. Passionate about Programming, Web Development and Designing, Data Science. Also, having knowledge of Java, OOP, DSA, Mysql, JDBC, MongoDB etc. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
-
 
 
 <h3 align="left">Connect with me</h3>
@@ -38,6 +28,7 @@ Hello! I'm Milind Ghegadmal 👋
   <a href="mailto:gmilind2002@gmail.com">
     <img align="left" alt="Milind Ghegadmal | Gmail" width="26px" src="Gmail.svg" />
   </a>
+  
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -78,12 +69,104 @@ Hello! I'm Milind Ghegadmal 👋
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=milindg123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milindg123&theme=radical)
+
+<h3 align="left">Connect with me</h3>
+
+  <a href="https://www.linkedin.com/in/milind-ghegadmal-1b8728221/">
+    <img align="left" alt="Milind Ghegadmal | Linkedin" width="24px" src="linkdin.svg"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/MilindGhegadma7">
+    <img align="left" alt="Milind Ghegadmal | Twitter" width="26px" src="Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mr.milind007/">
+    <img align="left" alt="Milind Ghegadmal | Instagram" width="24px" src="Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:gmilind2002@gmail.com">
+    <img align="left" alt="Milind Ghegadmal | Gmail" width="26px" src="Gmail.svg" />
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
