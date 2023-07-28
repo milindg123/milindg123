@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="centre">🔥   My Stats :</h3>
 
 ###
 
@@ -60,7 +60,6 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milindg123&theme=radical)
 
 
 
